@@ -1,12 +1,12 @@
       { 
-        "stockId": 1,
-        "tradeTypeId": 1,
+        "stockId": "1",
+        "tradeTypeId": "1",
         "stockName": "HCL",
         "tradeTypeName": "Buy"
       },
       { 
-        "stockId": 2,
-        "tradeTypeId": 1,
+        "stockId": "2",
+        "tradeTypeId": "1",
         "stockName": "Infosys",
         "tradeTypeName": "Buy"
       }
