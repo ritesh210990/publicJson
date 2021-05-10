@@ -3,28 +3,4 @@
         "tradeTypeId": 1,
         "stockName": "HCL",
         "tradeTypeName": "Buy"
-      },
-      { 
-        "stockId": 2,
-        "tradeTypeId": 1,
-        "stockName": "Infosys",
-        "tradeTypeName": "Buy"
-      },
-      { 
-        "stockId": 3,
-        "tradeTypeId": 1,
-        "stockName": "TataSteel",
-        "tradeTypeName": "Buy"
-      },
-      { 
-        "stockId": 4,
-        "tradeTypeId": 1,
-        "stockName": "DMart",
-        "tradeTypeName": "Buy"
-      },
-      { 
-        "stockId": 5,
-        "tradeTypeId": 2,
-        "stockName": "SBI",
-        "tradeTypeName": "SELL"
       }
