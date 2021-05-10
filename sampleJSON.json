@@ -9,4 +9,10 @@
         "tradeTypeId": "1",
         "stockName": "Infosys",
         "tradeTypeName": "Buy"
+      },
+      { 
+        "stockId": "3",
+        "tradeTypeId": "1",
+        "stockName": "TataSteel",
+        "tradeTypeName": "Buy"
       }
