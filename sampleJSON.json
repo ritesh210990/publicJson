@@ -3,16 +3,4 @@
         "tradeTypeId": "1",
         "stockName": "HCL",
         "tradeTypeName": "Buy"
-      },
-      { 
-        "stockId": "2",
-        "tradeTypeId": "1",
-        "stockName": "Infosys",
-        "tradeTypeName": "Buy"
-      },
-      { 
-        "stockId": "3",
-        "tradeTypeId": "1",
-        "stockName": "TataSteel",
-        "tradeTypeName": "Buy"
       }
